@@ -32,6 +32,7 @@ Some other questions to consider with affects of beef and pork pricing:
 
 ---
 # Final Presentation
+## Updated as of 05/16/2020
 
 ## Headlines from the News
 ![Wendy's](./Images/wendys_headline.PNG)
@@ -42,9 +43,14 @@ Some other questions to consider with affects of beef and pork pricing:
 
 ![Axios](./Images/axios_porkandbeef.PNG)
 
+Sources:
+- https://www.reuters.com/article/usa-livestock/livestock-us-cattle-hog-futures-climb-as-wholesale-meat-prices-rise-idUSL1N2CJ1VY
+- https://www.cnbc.com/2020/05/12/us-grocery-costs-jump-the-most-in-46-years-led-by-rising-prices-for-meat-and-eggs.html
+- https://www.axios.com/coronavirus-pork-beef-prices-surge-meat-plants-52cdf848-3315-4077-90e5-90e1ccbddd39.html
+- https://www.cnbc.com/2020/05/12/us-grocery-costs-jump-the-most-in-46-years-led-by-rising-prices-for-meat-and-eggs.html
+- https://www.nytimes.com/2020/05/05/business/coronavirus-meat-shortages.html
 ---
-# Charts and Graphs
-
+# Results Charts and Graphs
 ## Cost Variations for Pigs
 ![Slaughter](./Images/slaughter_image.png)
 
@@ -54,14 +60,8 @@ Some other questions to consider with affects of beef and pork pricing:
 
 ![Product Price](./Images/product_price_image.png)
 
-Sources:
-- https://www.reuters.com/article/usa-livestock/livestock-us-cattle-hog-futures-climb-as-wholesale-meat-prices-rise-idUSL1N2CJ1VY
-- https://www.cnbc.com/2020/05/12/us-grocery-costs-jump-the-most-in-46-years-led-by-rising-prices-for-meat-and-eggs.html
-- https://www.axios.com/coronavirus-pork-beef-prices-surge-meat-plants-52cdf848-3315-4077-90e5-90e1ccbddd39.html
-- https://www.cnbc.com/2020/05/12/us-grocery-costs-jump-the-most-in-46-years-led-by-rising-prices-for-meat-and-eggs.html
-- https://www.nytimes.com/2020/05/05/business/coronavirus-meat-shortages.html
-
 ## Employment Data
+### Employment data gathered from US Bureau of Labor Statistics
 
 ![Employment Total](./Images/employees_animal_slaughtering.png)
 
@@ -69,10 +69,23 @@ Sources:
 
 ## Coronavirus and Illness Data
 
-## Illnesses in Meat Packing Plants (Slaughtering and Meat Processing)
-![Illness Graph](/Images/illness_graph.png)
+### Illnesses in Meat Packing Plants (Slaughtering and Meat Processing)
+### Illness employment data gathered from US Bureau of Labor Statistics
+### Coronavirus data gathered from Covid19API
+![Illness Graph](./Images/illness_graph.png)
 
-![TotalCoronaCases](./Images/total_coronavirus_cases_us.png)
+![TotalCoronaCases](./Images/confirmed_covid_cases.png)
 
 ### Mapbox Map of Top 5 States of Empoloyment in Meat Packing Industry and Confirmed Coronavirus Infections by State
-![Corona Map](./Images\/coronavirus_map.PNG)
+![Corona Map](./Images/coronavirus_map.PNG)
+
+## Company Stock Returns
+### A comparison of the top 2 meat producing companies (JB USA, Tyson Foods) vs Beyond Meat over the last 4 months.
+![Corona Map](./Images/company_returns.png)
+
+## Conclusion
+### 1. Product pricing for hogs went down 38% (Late December) and then rose 140% (April)
+### 2. Expected employees and average weekly hours expected to drop for April when the US Bureau of Labor Stastics releases that information
+### 3. Illnesses in meat plants almost doubled in April 2020
+### 4. Coronavirus infection are on the rise 1.4 million confirmed cases in the US.
+### 5. Meat producing companies dropped around 30% and Beyond Meat rose 80%
