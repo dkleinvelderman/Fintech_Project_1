@@ -74,7 +74,7 @@ Sources:
 ### Coronavirus data gathered from Covid19API
 ![Illness Graph](./Images/illness_graph.png)
 
-![TotalCoronaCases](./Images/total_coronavirus_cases_us.png)
+![TotalCoronaCases](./Images/confirmed_covid_cases.png)
 
 ### Mapbox Map of Top 5 States of Empoloyment in Meat Packing Industry and Confirmed Coronavirus Infections by State
 ![Corona Map](./Images/coronavirus_map.PNG)
