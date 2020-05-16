@@ -34,13 +34,13 @@ Some other questions to consider with affects of beef and pork pricing:
 # Final Presentation
 
 ## Headlines from the News
-![Wendy's](\Images\wendys_headline.PNG)
+![Wendy's](./Images/wendys_headline.PNG)
 
-![CNBCheadline](\Images\cnbc_headline_grocery.PNG)
+![CNBCheadline](./Images/cnbc_headline_grocery.PNG)
 
-![CNBCchart](\Images\cnbc_headline_chart.PNG)
+![CNBCchart](./Images/cnbc_headline_chart.PNG)
 
-![Axios](\Images\axios_porkandbeef.PNG)
+![Axios](./Images/axios_porkandbeef.PNG)
 
 ---
 # Charts and Graphs
