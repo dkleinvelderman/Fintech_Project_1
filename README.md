@@ -46,13 +46,13 @@ Some other questions to consider with affects of beef and pork pricing:
 # Charts and Graphs
 
 ## Cost Variations for Pigs
-![Slaughter](\Images\slaughter_image.png)
+![Slaughter](./Images/slaughter_image.png)
 
-![Weights](\Images\weight_image.png)
+![Weights](./Images/weight_image.png)
 
-![Carcass](\Images\carcass_price_image.png)
+![Carcass](./Images/carcass_price_image.png)
 
-![Product Price](\Images\product_price_image.png)
+![Product Price](./Images/product_price_image.png)
 
 Sources:
 - https://www.reuters.com/article/usa-livestock/livestock-us-cattle-hog-futures-climb-as-wholesale-meat-prices-rise-idUSL1N2CJ1VY
@@ -63,16 +63,16 @@ Sources:
 
 ## Employment Data
 
-![Employment Total](\Images\Employment_data_totals.PNG)
+![Employment Total](./Images/employees_animal_slaughtering.png)
 
-![AVG Hours](\Images\employment_avg_hour.PNG)
+![AVG Hours](./Images/average_weekly_hours.png)
 
 ## Coronavirus and Illness Data
 
 ## Illnesses in Meat Packing Plants (Slaughtering and Meat Processing)
-![Illness Graph](\Images\illness_graph.png)
+![Illness Graph](/Images/illness_graph.png)
 
-![TotalCoronaCases](\Images\total_coronavirus_cases_us.png)
+![TotalCoronaCases](./Images/total_coronavirus_cases_us.png)
 
 ### Mapbox Map of Top 5 States of Empoloyment in Meat Packing Industry and Confirmed Coronavirus Infections by State
-![Corona Map](\Images\coronavirus_map.PNG)
+![Corona Map](./Images\/coronavirus_map.PNG)
